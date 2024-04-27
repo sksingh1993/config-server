@@ -11,7 +11,7 @@ microservice:
   payment-service:
     endpoints:
       endpoint:
-        uri:http: http://PAYMENT-SERVICE/payment/doPayment
+        uri: http://PAYMENT-SERVICE/payment/doPayment
   booking-service:
     endpoints:
       endpoint:
